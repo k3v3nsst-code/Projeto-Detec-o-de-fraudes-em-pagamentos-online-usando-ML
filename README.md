@@ -147,8 +147,7 @@ Ver `requirements.txt` para a lista completa de pacotes e versões.
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
+Este projeto está licenciado sob a Licença MIT
 ---
 
 **Autor:** Seu Nome
